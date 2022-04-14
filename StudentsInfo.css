@@ -1,0 +1,38 @@
+#container {
+  display: flex;
+  color: white;
+  margin: 20px;
+  background-color: #9ab1dc;
+  padding: 2em;
+  width: 900px;
+  font-size: 20px;
+}
+
+#studentPic {
+  height: 500px;
+  width: 400px;
+  object-fit: cover;
+  border: 3px solid #f1f4fa;
+}
+
+#info-container {
+  height: 500px;
+  width: 500px;
+  background-color: #f1f4fa;
+  color: #2c4981;
+  padding: 2em;
+  padding-top: 0;
+  padding-bottom: 0;
+  border: 3px solid #f1f4fa;
+}
+#randomize {
+  height: auto;
+  width: auto;
+  background: #416cbe;
+  cursor: pointer;
+  color: white;
+  padding: 1em;
+  border-radius: 10px;
+  border: transparent;
+}
+
